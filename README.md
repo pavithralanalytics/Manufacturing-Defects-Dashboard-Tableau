@@ -35,7 +35,7 @@ Excel / CSV (Data Source)
 PowerPoint (Project Presentation)
 
 # Conclusion:
-This dashboard offers a comprehensive view of manufacturing defects and their business impact. It helps identify high-cost defect areas, evaluate inspection effectiveness, and track quality trends over time, supporting better decision making, cost reduction, and continuous quality improvement.
+This Tableau dashboard provides actionable insights into manufacturing defects using 2024 data. It highlights high-impact defect types, compares inspection methods, and visualizes trends that support strategic quality improvements and cost reduction decisions. By presenting defects, severity, repair costs, and monthly variations clearly, the dashboard enables stakeholders to prioritize issues and enhance manufacturing performance.
 
 # 👩‍💻 Author
 Pavithra L – MBA (Business Analytics & Finance)
