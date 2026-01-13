@@ -1,3 +1,4 @@
+![Dashboard Preview](Tableau%20DASHBOARD.png)
 # Manufacturing Defects Dashboard – 2024 (Tableau)
 This project presents a Tableau-based analytics dashboard that analyzes manufacturing defects recorded in 2024. It focuses on defect types, severity, repair costs, monthly trends, and the effectiveness of inspection methods to support data-driven quality improvement.
 
